@@ -1,4 +1,6 @@
-This file contains all the necessary explanations to run our experiments. In "experiments" file, there are located all the problems and plans of our analysis. 
+This is a repository for the paper *Exploring Simultaneity: Learning Earliest-time Semantics for Automated Planning*, Aso-Mollar, A.; Sapena, O. and Onaindia, E. 2024. https://prl-theworkshop.github.io/prl2024-icaps/papers/14.pdf
+
+. In "experiments" file, there are located all the problems and plans of our analysis. 
 # Setup
 
 We first need to install pddlgym. For this, unzip pddlgym and run inside pddlgym folder:
