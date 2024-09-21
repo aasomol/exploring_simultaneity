@@ -1,7 +1,7 @@
 This file contains all the necessary explanations to run our experiments. In "experiments" file, there are located all the problems and plans of our analysis. 
 # Setup
 
-We first need to install pddlgym. For this, just go inside pddlgym folder (the first one) and run:
+We first need to install pddlgym. For this, unzip pddlgym and run inside pddlgym folder:
 
 pip install -e .
 
